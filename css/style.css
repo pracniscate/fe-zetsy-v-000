@@ -82,4 +82,6 @@ footer {
 #press img {
   border: 5px #ccc solid;
   padding: 1px;
+  transition: background-color 0.5s ease;
+  background-color: red; 
 }
