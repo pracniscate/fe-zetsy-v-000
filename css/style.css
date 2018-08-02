@@ -75,3 +75,8 @@ footer {
 .small {
 	font-size: 0.8em;
 }
+
+#press img {
+  border: 5px #ccc solid;
+  padding: 1px;
+}
