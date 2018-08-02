@@ -85,5 +85,5 @@ footer {
 }
 
 #press img:hover {
-  transition: background-color 500ms ease-out 1s;
+  transition: border 500ms ease-out 1s;
 }
